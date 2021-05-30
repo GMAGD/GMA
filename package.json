@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/GMAGD/GMA#readme",
   "dependencies": {
-    "ws": "^7.2.5"
+    "ws": "^7.4.6"
   }
 }
